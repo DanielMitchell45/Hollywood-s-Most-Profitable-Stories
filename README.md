@@ -1,5 +1,7 @@
 # Hollywood's Most Profitable Stories
 
+![Uploading landing page for asssifnment 3.jpg…]()
+
 This project was to analyse the performance of Hollywood movies. The Dashboard's landing page was to display visuals for the: Movie Titles, The Genre, The Studio where the movie was made, the movie's profitability and ratings for movies released between 2007 & 2012.
 
 The requirement for this project was to analyze the performance of the Hollywood movies that were from dataset provided with 74 rows in total to reflect 74 Hollywood movies from 2007 to 2012.
