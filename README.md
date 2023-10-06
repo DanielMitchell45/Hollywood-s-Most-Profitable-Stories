@@ -1,24 +1,20 @@
-# Hollywood-s-Most-Profitable-Stories
-To analyse the performance of Hollywood movies, Title, genre, studio, profitability and ratings for movies released 2007-2012.
-In this project, the objective was to analyze the performance of Hollywood movies. 
+# Hollywood's Most Profitable Stories
 
-The key areas for analysis were the Genre in comparison to others and times over the five years. The studios used were also identified as an area for deep analysis. The profitability and ratings for movies released between 2007 and 2012 were also provided for analysis.
+This project was to analyse the performance of Hollywood movies. The Dashboard's landing page was to display visuals for the: Movie Titles, The Genre, The Studio where the movie was made, the movie's profitability and ratings for movies released between 2007 & 2012.
 
-
-The requirement for this project was to analyze the performance of Hollywood movies from a dataset provided with 74 rows in total.
+The requirement for this project was to analyze the performance of the Hollywood movies that were from dataset provided with 74 rows in total to reflect 74 Hollywood movies from 2007 to 2012.
  
 The process to do this included uploading the dataset into R programming after it was downloaded from the Tableau Public location linked below: 
 
 https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv
 
-The Dataset includes the Title, genre, studio, profitability, and ratings for movies released from 2007 - 2012.
-Actions were to perform an initial Exploratory Analysis, and then clean the data within R. Then another Exploratory Analysis was carried out to compare and show the changes the cleaning process made.
+Actions were to perform an initial Exploratory Analysis, and then clean the data within R was carried out. Then another Exploratory Analysis was carried out afterwards to compare and show the changes the cleaning processes made.
 
 The next steps were to then to export the cleaned data from R into PowerBi to create visuals that show a variety of statistics that can be seen at a glance from the cleaned data in a clear and meaningful way using specific colors that have been requested by the client.
 
 The requested brand colors are blue, green, and brown. Options to use a variety of shades were offered.
  
-The last request was that the Power Bi Dashboard should show the following on the landing dashboard:
+The last request was that the Power BI Dashboard should show the following on the landing dashboard:
  
 •	The average Rotten Tomatoes ratings of each genre
 •	The number of movies produced per year 
