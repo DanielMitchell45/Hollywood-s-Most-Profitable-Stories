@@ -1,6 +1,6 @@
 # Hollywood's Most Profitable Stories
 
-![Uploading landing page for asssifnment 3.jpg…]()
+![landing page for asssifnment 3](https://github.com/DanielMitchell45/Hollywoods_Most_Profitable_Stories/assets/65592585/4c91402c-a624-475c-a8b2-25647f2fdbac)
 
 This project was to analyse the performance of Hollywood movies. The Dashboard's landing page was to display visuals for the: Movie Titles, The Genre, The Studio where the movie was made, the movie's profitability and ratings for movies released between 2007 & 2012.
 
