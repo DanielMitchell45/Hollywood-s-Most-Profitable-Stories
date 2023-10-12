@@ -36,7 +36,7 @@ Here is a short animation of 5 additional visuals with additional information th
 https://github.com/DanielMitchell45/Hollywoods_Most_Profitable_Stories/assets/65592585/0bd74e75-e291-44d1-b1d7-8e80be8c4b7b
 
  
-My finding were that even though this dataset was cleaned thoroughly. I have carefully examined the dataset after this process, especially with regard to the two different ratings between the Tomatometer and the Audience score categories. I expected these two classifications to have a greater significant correlation than what it came out to be. 
+My findings were that even though this dataset was cleaned thoroughly. I have carefully examined the dataset after this process, especially with regard to the two different ratings between the Tomatometer and the Audience score categories. I expected these two classifications to have a greater significant correlation than what it came out to be. 
 I have since taken the time to manually examine the dataset itself as there were less than 80 rows in total for this dataset. 
 Visually, there was a good correlation on most of the rows. However, I was expecting the review scores to be closer. 
 I took it upon myself to examine the Rotten Tomatoes site in more detail to gather more information about the differences between these two ratings in question to try to gather an explanation as to why the correlation was not closer.
