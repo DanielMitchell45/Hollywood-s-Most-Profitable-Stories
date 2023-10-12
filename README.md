@@ -31,6 +31,8 @@ Additional visuals were added on subsequent dashboards with a variety of interac
 Here is a screenshot of 5 additional visuals with additional information that relay additional usefull information that the client at a glance can compare and present in an effecient meaningfull way:
 
 
+https://github.com/DanielMitchell45/Hollywoods_Most_Profitable_Stories/assets/65592585/063020a3-07ce-4117-a770-c0666f64e95e
+
  
 My finding were that even though this dataset was cleaned thoroughly. I have carefully examined the dataset after this process, especially with regard to the two different ratings between the Tomatometer and the Audience score categories. I expected these two classifications to have a greater significant correlation than what it came out to be. 
 I have since taken the time to manually examine the dataset itself as there were less than 80 rows in total for this dataset. 
