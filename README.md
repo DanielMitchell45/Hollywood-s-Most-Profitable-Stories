@@ -22,9 +22,11 @@ The last request was that the Power BI Dashboard should show the following on th
 •	The profitability per studio 
 •	The worldwide gross per genre 
 
-Here is a screenshot of the landing page:
+Here is a short animation of the landing page:
 
-![landing page for asssifnment 3](https://github.com/DanielMitchell45/Hollywoods_Most_Profitable_Stories/assets/65592585/4c91402c-a624-475c-a8b2-25647f2fdbac)
+
+https://github.com/DanielMitchell45/Hollywoods_Most_Profitable_Stories/assets/65592585/3faa6720-b2d9-46ee-b98e-a316e71739cb
+
 
 Additional visuals were added on subsequent dashboards with a variety of interactivities so that any required information could be gathered at a glance
 
